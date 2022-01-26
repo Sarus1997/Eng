@@ -89,7 +89,7 @@
                     <img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.6435-9/75627311_1182068898649808_1557555042192457728_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHyF-fXix6DTDp0S9Dpx6-1Lhe2WpSCvp0uF7ZalIK-na_OklFt3PPlzQTeudncAwkTSQltw3dwC8uOQrdDS3q2&_nc_ohc=MNI9k2wyrRcAX-FuokA&_nc_ht=scontent.fbkk5-3.fna&oh=00_AT_QEXpBQ0N4xDTycZIV_It0OdzmZNl9wwNC6mEznvj_nw&oe=62155A15"
                         alt="Norway" style="width:100%">
                     <div class="w3-container">
-                        <h3><b>LEAK OF THE</b></h3>
+                        <h3><b>LEAK OF THE NATION</b></h3>
                     </div>
 
                     <div class="w3-container">
